@@ -11,7 +11,7 @@ using Full_GRASP_And_SOLID.Library;
 
 namespace Full_GRASP_And_SOLID
 {
-    // Respuesta: El patrón utilizado para asignar la responsabilidad es SRP.
+    // Respuesta: El patrón utilizado para implementar la responsabilidad es SRP.
     public class Program
     {
         private static ArrayList productCatalog = new ArrayList();
